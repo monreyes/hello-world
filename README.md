@@ -1,2 +1,2 @@
 # hello-world
-sample tutorial
+sample tutorial as starter
